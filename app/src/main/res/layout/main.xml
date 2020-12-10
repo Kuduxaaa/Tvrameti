@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:gravity="center"
+	android:background="@color/primary_dark"
+	android:orientation="vertical">
+
+	<Button
+		android:layout_width="130dp"
+		style="?android:attr/buttonStyleSmall"
+		android:layout_height="wrap_content"
+		android:text="დაწყება"
+		android:background="@drawable/button_style"
+		android:layout_margin="10dp"
+		android:id="@+id/start_btn"/>
+
+	<Button
+		android:layout_width="130dp"
+		style="?android:attr/buttonStyleSmall"
+		android:layout_height="wrap_content"
+		android:text="გასვლა"
+		android:background="@drawable/button_style"
+		android:layout_margin="10dp"
+		android:id="@+id/quit_btn"/>
+
+</LinearLayout>
+

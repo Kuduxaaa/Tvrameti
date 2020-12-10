@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:gravity="center"
+	android:background="@color/primary_dark"
+	android:orientation="vertical">
+
+	<Button
+		android:layout_width="130dp"
+		style="?android:attr/buttonStyleSmall"
+		android:layout_height="wrap_content"
+		android:text="საბავშვო"
+		android:background="@drawable/button_style"
+		android:layout_margin="10dp"
+		android:id="@+id/cat01"/>
+
+	<Button
+		android:layout_width="130dp"
+		style="?android:attr/buttonStyleSmall"
+		android:layout_height="wrap_content"
+		android:text="სასიყვარულო"
+		android:background="@drawable/button_style"
+		android:layout_margin="10dp"
+		android:id="@+id/cat04"/>
+
+	<Button
+		android:layout_width="130dp"
+		style="?android:attr/buttonStyleSmall"
+		android:layout_height="wrap_content"
+		android:text="14+"
+		android:background="@drawable/button_style"
+		android:layout_margin="10dp"
+		android:id="@+id/cat02"/>
+
+	<Button
+		android:layout_width="130dp"
+		style="?android:attr/buttonStyleSmall"
+		android:layout_height="wrap_content"
+		android:text="18+"
+		android:background="@drawable/button_style"
+		android:layout_margin="10dp"
+		android:id="@+id/cat03"/>
+
+</LinearLayout>
+

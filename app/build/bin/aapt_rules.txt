@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:42
+-keep class ge.tvrameti.CategoryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:36
+-keep class ge.tvrameti.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:20
+-keep class ge.tvrameti.SplashActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class ge.tvrameti.StartActivity { <init>(...); }
+
